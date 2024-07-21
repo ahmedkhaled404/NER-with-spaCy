@@ -1,4 +1,4 @@
-<h1>Named Entity Recognition with spaCy<h1/>
+<h1>Named Entity Recognition with spaCy</h1>
 
 **1. Introduction**
 
